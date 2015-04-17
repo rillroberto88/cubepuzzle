@@ -1,0 +1,1 @@
+Egy kocka felbontasa kisebb darabokra es ezek osszerakasa.
